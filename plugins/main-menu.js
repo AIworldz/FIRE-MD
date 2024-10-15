@@ -580,7 +580,7 @@ ${readMore}
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363334724476325@newsletter',
-        newsletterName: 'FIRE MD ©powered by opaksfire',
+        newsletterName: 'Knight Bot',
         serverMessageId: -1,
       },
       forwardingScore: 999,
