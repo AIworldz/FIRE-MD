@@ -486,7 +486,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  🔥 .install <Gist URL><
 
 follow our WhatsApp channel for updates 
-https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W
+https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A
 `
 
   conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, null, rpyt)
