@@ -587,7 +587,7 @@ ${readMore}
         title: 'FIRE MD',
         body: 'ᴍᴇɴᴜ',
         thumbnailUrl: 'https://i.imgur.com/tStJm2M.jpeg',
-        sourceUrl: 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W',
+        sourceUrl: 'https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A',
         mediaType: 1,
         renderLargerThumbnail: false,
       },
