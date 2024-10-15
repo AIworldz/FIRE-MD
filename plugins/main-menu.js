@@ -521,6 +521,7 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
 - *${ucpn}* 
    
 🔥───『 *U S E R*』───🔥
+🔥 *YT:* https://www.youtube.com/@mr_unique_hacker
 🔥 *Name:* ${name}
 🔥 *Gold:* ${credit}
 🔥 *Role:* ${role}
