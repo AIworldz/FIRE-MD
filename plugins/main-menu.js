@@ -579,7 +579,7 @@ ${readMore}
       mentionedJid: [m.sender],
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363334724476325@newsletter',
+        newsletterJid: '120363161513685998@newsletter',
         newsletterName: 'Knight Bot',
         serverMessageId: -1,
       },
